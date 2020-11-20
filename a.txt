@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sdgwreb
+=======
+Linia 1
+>>>>>>> 0ae1324dff17ae0b817ba9ff90101aff193d7eb7
